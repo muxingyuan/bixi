@@ -1,0 +1,14 @@
+git
+Version control for coding
+repository is local+remote, support both Windows and Linux
+other competitors: repository is only in local
+
+github
+Version control + Issue tracking
+
+Sharepoint
+document management
+
+gitbash
+Linux environement
+
