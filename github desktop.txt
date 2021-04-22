@@ -1,0 +1,21 @@
+
+
+Issue1
+please see the login credential here
+destination: ftp.jobready123.com
+user name : dq121@testingmoo.com
+password: K#Xwx3Sp.gmL
+
+Issue3
+https://www.kaggle.com/competitions
+data, competition
+
+https://towardsdatascience.com/
+article
+
+https://medium.com/topic/data-science
+article
+
+Issue2
+Github desktop
+Github commands
